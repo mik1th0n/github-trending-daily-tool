@@ -1,0 +1,1082 @@
+{
+  "fetchedAt": "2026-03-12T01:23:42.390Z",
+  "source": "Custom Trend Top",
+  "mode": "custom",
+  "availableCount": 20,
+  "requestedLimit": 20,
+  "note": "综合 daily / weekly / monthly 官方榜与搜索候选后计算趋势分。",
+  "insights": {
+    "topics": [
+      {
+        "name": "ai",
+        "count": 1
+      },
+      {
+        "name": "assistant",
+        "count": 1
+      },
+      {
+        "name": "crustacean",
+        "count": 1
+      },
+      {
+        "name": "molty",
+        "count": 1
+      },
+      {
+        "name": "openclaw",
+        "count": 1
+      },
+      {
+        "name": "own-your-data",
+        "count": 1
+      },
+      {
+        "name": "personal",
+        "count": 1
+      },
+      {
+        "name": "agentic-ai",
+        "count": 1
+      }
+    ],
+    "languages": [
+      {
+        "name": "Python",
+        "count": 7
+      },
+      {
+        "name": "TypeScript",
+        "count": 5
+      },
+      {
+        "name": "Shell",
+        "count": 2
+      },
+      {
+        "name": "Rust",
+        "count": 1
+      },
+      {
+        "name": "JavaScript",
+        "count": 1
+      },
+      {
+        "name": "Java",
+        "count": 1
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI / 智能体",
+        "count": 11
+      },
+      {
+        "name": "工程方法 / 框架",
+        "count": 2
+      },
+      {
+        "name": "AI 评测 / 安全",
+        "count": 2
+      },
+      {
+        "name": "开源项目",
+        "count": 2
+      },
+      {
+        "name": "预测 / 多智能体",
+        "count": 1
+      },
+      {
+        "name": "语音 / TTS",
+        "count": 1
+      }
+    ],
+    "countries": [
+      {
+        "name": "未知",
+        "count": 20
+      }
+    ]
+  },
+  "items": [
+    {
+      "owner": "openclaw",
+      "repo": "openclaw",
+      "fullName": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "readmeUrl": "https://github.com/openclaw/openclaw#readme",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "totalStars": 303958,
+      "forks": 57422,
+      "starsToday": 0,
+      "starsWeek": 0,
+      "starsMonth": 121269,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/openclaw/openclaw",
+      "sources": [
+        "monthly",
+        "search"
+      ],
+      "searchStars": 303958,
+      "searchForks": 57422,
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty",
+        "openclaw",
+        "own-your-data",
+        "personal"
+      ],
+      "homepage": "https://openclaw.ai",
+      "openIssues": 12420,
+      "watchers": 1509,
+      "license": "MIT",
+      "defaultBranch": "main",
+      "updatedAt": "2026-03-12T01:23:37Z",
+      "createdAt": "2025-11-24T10:16:47Z",
+      "stars": 303958,
+      "readmeExcerpt": "",
+      "shortDescription": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：TypeScript。 相关主题：#ai、#assistant、#crustacean。",
+        "official": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+      },
+      "radar": {
+        "heat": 100,
+        "community": 100,
+        "activity": 100,
+        "maturity": 100,
+        "focus": 98
+      },
+      "trendScore": 100,
+      "badgeText": "趋势分 100",
+      "topicLinks": [
+        {
+          "name": "ai",
+          "url": "https://github.com/topics/ai"
+        },
+        {
+          "name": "assistant",
+          "url": "https://github.com/topics/assistant"
+        },
+        {
+          "name": "crustacean",
+          "url": "https://github.com/topics/crustacean"
+        },
+        {
+          "name": "molty",
+          "url": "https://github.com/topics/molty"
+        },
+        {
+          "name": "openclaw",
+          "url": "https://github.com/topics/openclaw"
+        },
+        {
+          "name": "own-your-data",
+          "url": "https://github.com/topics/own-your-data"
+        },
+        {
+          "name": "personal",
+          "url": "https://github.com/topics/personal"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "readmeUrl": "https://github.com/ruvnet/RuView#readme",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "totalStars": 35083,
+      "forks": 4764,
+      "starsToday": 0,
+      "starsWeek": 8569,
+      "starsMonth": 29197,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/ruvnet/RuView",
+      "sources": [
+        "weekly",
+        "monthly"
+      ],
+      "searchStars": 0,
+      "searchForks": 0,
+      "topics": [
+        "agentic-ai",
+        "densepose",
+        "esp32",
+        "firmware",
+        "mcu",
+        "mincut",
+        "monitoring",
+        "pose-estimation",
+        "rf",
+        "self",
+        "self-learning",
+        "wifi",
+        "wifi-hacking",
+        "wifi-security"
+      ],
+      "homepage": "https://github.com/ruvnet/ruvector/",
+      "openIssues": 42,
+      "watchers": 220,
+      "license": "MIT",
+      "defaultBranch": "main",
+      "updatedAt": "2026-03-12T01:23:05Z",
+      "createdAt": "2025-06-07T04:32:30Z",
+      "stars": 35083,
+      "readmeExcerpt": "",
+      "shortDescription": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimatio…",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：Rust。 相关主题：#agentic-ai、#densepose、#esp32。",
+        "official": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimat…"
+      },
+      "radar": {
+        "heat": 40,
+        "community": 83,
+        "activity": 100,
+        "maturity": 85,
+        "focus": 100
+      },
+      "trendScore": 73,
+      "badgeText": "趋势分 73",
+      "topicLinks": [
+        {
+          "name": "agentic-ai",
+          "url": "https://github.com/topics/agentic-ai"
+        },
+        {
+          "name": "densepose",
+          "url": "https://github.com/topics/densepose"
+        },
+        {
+          "name": "esp32",
+          "url": "https://github.com/topics/esp32"
+        },
+        {
+          "name": "firmware",
+          "url": "https://github.com/topics/firmware"
+        },
+        {
+          "name": "mcu",
+          "url": "https://github.com/topics/mcu"
+        },
+        {
+          "name": "mincut",
+          "url": "https://github.com/topics/mincut"
+        },
+        {
+          "name": "monitoring",
+          "url": "https://github.com/topics/monitoring"
+        },
+        {
+          "name": "pose-estimation",
+          "url": "https://github.com/topics/pose-estimation"
+        },
+        {
+          "name": "rf",
+          "url": "https://github.com/topics/rf"
+        },
+        {
+          "name": "self",
+          "url": "https://github.com/topics/self"
+        },
+        {
+          "name": "self-learning",
+          "url": "https://github.com/topics/self-learning"
+        },
+        {
+          "name": "wifi",
+          "url": "https://github.com/topics/wifi"
+        },
+        {
+          "name": "wifi-hacking",
+          "url": "https://github.com/topics/wifi-hacking"
+        },
+        {
+          "name": "wifi-security",
+          "url": "https://github.com/topics/wifi-security"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "owner": "666ghj",
+      "repo": "MiroFish",
+      "fullName": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "readmeUrl": "https://github.com/666ghj/MiroFish#readme",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "totalStars": 16827,
+      "forks": 1791,
+      "starsToday": 2907,
+      "starsWeek": 11748,
+      "starsMonth": 12466,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/666ghj/MiroFish",
+      "sources": [
+        "daily",
+        "weekly",
+        "monthly",
+        "search"
+      ],
+      "searchStars": 16827,
+      "searchForks": 1791,
+      "topics": [
+        "agent-memory",
+        "financial-forecasting",
+        "future-prediction",
+        "knowledge-graph",
+        "llms",
+        "multi-agent-simulation",
+        "public-opinion-analysis",
+        "python3",
+        "social-prediction",
+        "swarm-intelligence"
+      ],
+      "homepage": "https://mirofish.ai",
+      "openIssues": 82,
+      "watchers": 79,
+      "license": "AGPL-3.0",
+      "defaultBranch": "main",
+      "updatedAt": "2026-03-12T01:22:24Z",
+      "createdAt": "2025-11-26T04:23:02Z",
+      "stars": 16827,
+      "readmeExcerpt": "",
+      "shortDescription": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "chineseCard": {
+        "category": "预测 / 多智能体",
+        "what": "简洁通用的群体智能引擎，预测万物",
+        "who": "适合做研究实验、预测分析和复杂系统建模的开发者。",
+        "highlight": "涉及预测、知识图谱、多智能体或仿真能力。 常见技术栈：Python。 相关主题：#agent-memory、#financial-forecasting、#future-prediction。",
+        "official": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+      },
+      "radar": {
+        "heat": 41,
+        "community": 77,
+        "activity": 100,
+        "maturity": 80,
+        "focus": 100
+      },
+      "trendScore": 72,
+      "badgeText": "趋势分 72",
+      "topicLinks": [
+        {
+          "name": "agent-memory",
+          "url": "https://github.com/topics/agent-memory"
+        },
+        {
+          "name": "financial-forecasting",
+          "url": "https://github.com/topics/financial-forecasting"
+        },
+        {
+          "name": "future-prediction",
+          "url": "https://github.com/topics/future-prediction"
+        },
+        {
+          "name": "knowledge-graph",
+          "url": "https://github.com/topics/knowledge-graph"
+        },
+        {
+          "name": "llms",
+          "url": "https://github.com/topics/llms"
+        },
+        {
+          "name": "multi-agent-simulation",
+          "url": "https://github.com/topics/multi-agent-simulation"
+        },
+        {
+          "name": "public-opinion-analysis",
+          "url": "https://github.com/topics/public-opinion-analysis"
+        },
+        {
+          "name": "python3",
+          "url": "https://github.com/topics/python3"
+        },
+        {
+          "name": "social-prediction",
+          "url": "https://github.com/topics/social-prediction"
+        },
+        {
+          "name": "swarm-intelligence",
+          "url": "https://github.com/topics/swarm-intelligence"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "fullName": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "readmeUrl": "https://github.com/msitarzewski/agency-agents#readme",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "totalStars": 30171,
+      "forks": 4747,
+      "starsToday": 6167,
+      "starsWeek": 23574,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/msitarzewski/agency-agents",
+      "sources": [
+        "daily",
+        "weekly"
+      ],
+      "searchStars": 0,
+      "searchForks": 0,
+      "topics": [],
+      "homepage": "",
+      "openIssues": 27,
+      "watchers": 290,
+      "license": "MIT",
+      "defaultBranch": "main",
+      "updatedAt": "2026-03-12T01:23:13Z",
+      "createdAt": "2025-10-13T12:12:29Z",
+      "stars": 30171,
+      "readmeExcerpt": "",
+      "shortDescription": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninja…",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：Shell。",
+        "official": "A complete AI agency at your fingertips - From frontend wizards to Reddit community nin…"
+      },
+      "radar": {
+        "heat": 63,
+        "community": 82,
+        "activity": 100,
+        "maturity": 74,
+        "focus": 28
+      },
+      "trendScore": 69,
+      "badgeText": "趋势分 69",
+      "topicLinks": [],
+      "rank": 4
+    },
+    {
+      "owner": "obra",
+      "repo": "superpowers",
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "readmeUrl": "https://github.com/obra/superpowers#readme",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "totalStars": 78097,
+      "forks": 6039,
+      "starsToday": 1483,
+      "starsWeek": 0,
+      "starsMonth": 28269,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/obra/superpowers",
+      "sources": [
+        "daily",
+        "monthly"
+      ],
+      "searchStars": 0,
+      "searchForks": 0,
+      "shortDescription": "An agentic skills framework & software development methodology that works.",
+      "chineseCard": {
+        "category": "工程方法 / 框架",
+        "what": "一套面向 AI 编程协作的技能框架和软件开发方法论。",
+        "who": "适合希望把 AI 代理纳入工程流程、规范交付的团队。",
+        "highlight": "强调流程规范、技能体系和工程协作。 常见技术栈：Shell。",
+        "official": "An agentic skills framework & software development methodology that works."
+      },
+      "radar": {
+        "heat": 28,
+        "community": 89,
+        "activity": 0,
+        "maturity": 69,
+        "focus": 28
+      },
+      "trendScore": 43,
+      "badgeText": "趋势分 43",
+      "topicLinks": [],
+      "rank": 5
+    },
+    {
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "fullName": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "readmeUrl": "https://github.com/moeru-ai/airi#readme",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "totalStars": 32655,
+      "forks": 3211,
+      "starsToday": 0,
+      "starsWeek": 8962,
+      "starsMonth": 15333,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/moeru-ai/airi",
+      "sources": [
+        "weekly",
+        "monthly"
+      ],
+      "searchStars": 0,
+      "searchForks": 0,
+      "shortDescription": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings…",
+      "chineseCard": {
+        "category": "语音 / TTS",
+        "what": "一个面向语音生成和文本转语音的开源项目。",
+        "who": "适合做语音合成、音色实验和语音产品集成的团队。",
+        "highlight": "重点在高质量 TTS、语音生成或音频建模。 常见技术栈：TypeScript。",
+        "official": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber living…"
+      },
+      "radar": {
+        "heat": 29,
+        "community": 82,
+        "activity": 0,
+        "maturity": 64,
+        "focus": 28
+      },
+      "trendScore": 41,
+      "badgeText": "趋势分 41",
+      "topicLinks": [],
+      "rank": 6
+    },
+    {
+      "owner": "x1xhlol",
+      "repo": "system-prompts-and-models-of-ai-tools",
+      "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "readmeUrl": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools#readme",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "totalStars": 130274,
+      "forks": 33149,
+      "starsToday": 0,
+      "starsWeek": 0,
+      "starsMonth": 16601,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "sources": [
+        "monthly"
+      ],
+      "shortDescription": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro,…",
+      "chineseCard": {
+        "category": "AI 评测 / 安全",
+        "what": "用于测试 Prompt、Agent 和 RAG 应用的评测与安全检测工具。",
+        "who": "适合做大模型应用测试、红队评估和上线前质量校验的团队。",
+        "highlight": "覆盖提示词评测、对抗测试、漏洞扫描或 CI 集成。",
+        "official": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro…"
+      },
+      "radar": {
+        "heat": 14,
+        "community": 94,
+        "activity": 0,
+        "maturity": 75,
+        "focus": 8
+      },
+      "trendScore": 37,
+      "badgeText": "趋势分 37",
+      "topicLinks": [],
+      "rank": 7
+    },
+    {
+      "owner": "bytedance",
+      "repo": "deer-flow",
+      "fullName": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "readmeUrl": "https://github.com/bytedance/deer-flow#readme",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "totalStars": 29350,
+      "forks": 3511,
+      "starsToday": 0,
+      "starsWeek": 4861,
+      "starsMonth": 9499,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/bytedance/deer-flow",
+      "sources": [
+        "weekly",
+        "monthly"
+      ],
+      "searchStars": 0,
+      "searchForks": 0,
+      "shortDescription": "An open-source SuperAgent harness that researches, codes, and creates. With the help of s…",
+      "chineseCard": {
+        "category": "AI 评测 / 安全",
+        "what": "用于测试 Prompt、Agent 和 RAG 应用的评测与安全检测工具。",
+        "who": "适合做大模型应用测试、红队评估和上线前质量校验的团队。",
+        "highlight": "覆盖提示词评测、对抗测试、漏洞扫描或 CI 集成。 常见技术栈：Python。",
+        "official": "An open-source SuperAgent harness that researches, codes, and creates. With the help of…"
+      },
+      "radar": {
+        "heat": 17,
+        "community": 81,
+        "activity": 0,
+        "maturity": 64,
+        "focus": 28
+      },
+      "trendScore": 37,
+      "badgeText": "趋势分 37",
+      "topicLinks": [],
+      "rank": 8
+    },
+    {
+      "owner": "virattt",
+      "repo": "ai-hedge-fund",
+      "fullName": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "readmeUrl": "https://github.com/virattt/ai-hedge-fund#readme",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "totalStars": 48168,
+      "forks": 8387,
+      "starsToday": 636,
+      "starsWeek": 1953,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/virattt/ai-hedge-fund",
+      "sources": [
+        "daily",
+        "weekly"
+      ],
+      "searchStars": 0,
+      "searchForks": 0,
+      "shortDescription": "An AI Hedge Fund Team",
+      "chineseCard": {
+        "category": "金融实验 / 多代理",
+        "what": "一个用 AI 代理模拟投研或量化协作流程的项目。",
+        "who": "适合研究 AI 在金融分析、协作决策和策略实验中的应用。",
+        "highlight": "强调投研流程、多代理协作和策略对比。 常见技术栈：Python。",
+        "official": "An AI Hedge Fund Team"
+      },
+      "radar": {
+        "heat": 6,
+        "community": 86,
+        "activity": 0,
+        "maturity": 68,
+        "focus": 28
+      },
+      "trendScore": 35,
+      "badgeText": "趋势分 35",
+      "topicLinks": [],
+      "rank": 9
+    },
+    {
+      "owner": "badlogic",
+      "repo": "pi-mono",
+      "fullName": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "readmeUrl": "https://github.com/badlogic/pi-mono#readme",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "totalStars": 22453,
+      "forks": 2373,
+      "starsToday": 0,
+      "starsWeek": 0,
+      "starsMonth": 11844,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/badlogic/pi-mono",
+      "sources": [
+        "monthly"
+      ],
+      "shortDescription": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, v…",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：TypeScript。",
+        "official": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot,…"
+      },
+      "radar": {
+        "heat": 10,
+        "community": 79,
+        "activity": 0,
+        "maturity": 62,
+        "focus": 20
+      },
+      "trendScore": 32,
+      "badgeText": "趋势分 32",
+      "topicLinks": [],
+      "rank": 10
+    },
+    {
+      "owner": "shareAI-lab",
+      "repo": "learn-claude-code",
+      "fullName": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "readmeUrl": "https://github.com/shareAI-lab/learn-claude-code#readme",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "language": "TypeScript",
+      "totalStars": 25223,
+      "forks": 4553,
+      "starsToday": 0,
+      "starsWeek": 0,
+      "starsMonth": 8378,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/shareAI-lab/learn-claude-code",
+      "sources": [
+        "monthly"
+      ],
+      "shortDescription": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：TypeScript。",
+        "official": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1"
+      },
+      "radar": {
+        "heat": 7,
+        "community": 80,
+        "activity": 0,
+        "maturity": 64,
+        "focus": 20
+      },
+      "trendScore": 32,
+      "badgeText": "趋势分 32",
+      "topicLinks": [],
+      "rank": 11
+    },
+    {
+      "owner": "666ghj",
+      "repo": "BettaFish",
+      "fullName": "666ghj/BettaFish",
+      "url": "https://github.com/666ghj/BettaFish",
+      "readmeUrl": "https://github.com/666ghj/BettaFish#readme",
+      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+      "language": "Python",
+      "totalStars": 38139,
+      "forks": 7148,
+      "starsToday": 0,
+      "starsWeek": 2092,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/666ghj/BettaFish",
+      "sources": [
+        "weekly"
+      ],
+      "shortDescription": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：Python。",
+        "official": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。"
+      },
+      "radar": {
+        "heat": 4,
+        "community": 84,
+        "activity": 0,
+        "maturity": 66,
+        "focus": 20
+      },
+      "trendScore": 32,
+      "badgeText": "趋势分 32",
+      "topicLinks": [],
+      "rank": 12
+    },
+    {
+      "owner": "affaan-m",
+      "repo": "everything-claude-code",
+      "fullName": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "readmeUrl": "https://github.com/affaan-m/everything-claude-code#readme",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "totalStars": 72085,
+      "forks": 9045,
+      "starsToday": 0,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/affaan-m/everything-claude-code",
+      "sources": [
+        "search"
+      ],
+      "searchStars": 72085,
+      "searchForks": 9045,
+      "shortDescription": "The agent harness performance optimization system. Skills, instincts, memory, security, a…",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：JavaScript。",
+        "official": "The agent harness performance optimization system. Skills, instincts, memory, security,…"
+      },
+      "radar": {
+        "heat": 0,
+        "community": 88,
+        "activity": 0,
+        "maturity": 70,
+        "focus": 20
+      },
+      "trendScore": 32,
+      "badgeText": "趋势分 32",
+      "topicLinks": [],
+      "rank": 13
+    },
+    {
+      "owner": "ItzCrazyKns",
+      "repo": "Vane",
+      "fullName": "ItzCrazyKns/Vane",
+      "url": "https://github.com/ItzCrazyKns/Vane",
+      "readmeUrl": "https://github.com/ItzCrazyKns/Vane#readme",
+      "description": "Vane is an AI-powered answering engine.",
+      "language": "TypeScript",
+      "totalStars": 32760,
+      "forks": 3520,
+      "starsToday": 0,
+      "starsWeek": 2282,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/ItzCrazyKns/Vane",
+      "sources": [
+        "weekly"
+      ],
+      "shortDescription": "Vane is an AI-powered answering engine.",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：TypeScript。",
+        "official": "Vane is an AI-powered answering engine."
+      },
+      "radar": {
+        "heat": 4,
+        "community": 82,
+        "activity": 0,
+        "maturity": 64,
+        "focus": 20
+      },
+      "trendScore": 31,
+      "badgeText": "趋势分 31",
+      "topicLinks": [],
+      "rank": 14
+    },
+    {
+      "owner": "apache",
+      "repo": "airflow",
+      "fullName": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "readmeUrl": "https://github.com/apache/airflow#readme",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "language": "Python",
+      "totalStars": 44596,
+      "forks": 16649,
+      "starsToday": 0,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/apache/airflow",
+      "sources": [
+        "search"
+      ],
+      "searchStars": 44596,
+      "searchForks": 16649,
+      "shortDescription": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "chineseCard": {
+        "category": "工程方法 / 框架",
+        "what": "一套面向 AI 编程协作的技能框架和软件开发方法论。",
+        "who": "适合希望把 AI 代理纳入工程流程、规范交付的团队。",
+        "highlight": "强调流程规范、技能体系和工程协作。 常见技术栈：Python。",
+        "official": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+      },
+      "radar": {
+        "heat": 0,
+        "community": 86,
+        "activity": 0,
+        "maturity": 69,
+        "focus": 20
+      },
+      "trendScore": 31,
+      "badgeText": "趋势分 31",
+      "topicLinks": [],
+      "rank": 15
+    },
+    {
+      "owner": "apache",
+      "repo": "kafka",
+      "fullName": "apache/kafka",
+      "url": "https://github.com/apache/kafka",
+      "readmeUrl": "https://github.com/apache/kafka#readme",
+      "description": "Mirror of Apache Kafka",
+      "language": "Java",
+      "totalStars": 32222,
+      "forks": 15014,
+      "starsToday": 0,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/apache/kafka",
+      "sources": [
+        "search"
+      ],
+      "searchStars": 32222,
+      "searchForks": 15014,
+      "shortDescription": "Mirror of Apache Kafka",
+      "chineseCard": {
+        "category": "开源项目",
+        "what": "一个近期受到关注的开源项目。",
+        "who": "适合关注当下 GitHub 热点和技术方向的开发者。",
+        "highlight": "可以结合仓库主题、语言和 README 进一步判断适用场景。 常见技术栈：Java。",
+        "official": "Mirror of Apache Kafka"
+      },
+      "radar": {
+        "heat": 0,
+        "community": 84,
+        "activity": 0,
+        "maturity": 67,
+        "focus": 20
+      },
+      "trendScore": 31,
+      "badgeText": "趋势分 31",
+      "topicLinks": [],
+      "rank": 16
+    },
+    {
+      "owner": "nextlevelbuilder",
+      "repo": "ui-ux-pro-max-skill",
+      "fullName": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "readmeUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill#readme",
+      "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+      "language": "Python",
+      "totalStars": 40059,
+      "forks": 3870,
+      "starsToday": 0,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/nextlevelbuilder/ui-ux-pro-max-skill",
+      "sources": [
+        "search"
+      ],
+      "searchStars": 40059,
+      "searchForks": 3870,
+      "shortDescription": "An AI SKILL that provide design intelligence for building professional UI/UX multiple pla…",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：Python。",
+        "official": "An AI SKILL that provide design intelligence for building professional UI/UX multiple p…"
+      },
+      "radar": {
+        "heat": 0,
+        "community": 84,
+        "activity": 0,
+        "maturity": 65,
+        "focus": 20
+      },
+      "trendScore": 31,
+      "badgeText": "趋势分 31",
+      "topicLinks": [],
+      "rank": 17
+    },
+    {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "fullName": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "readmeUrl": "https://github.com/NousResearch/hermes-agent#readme",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "totalStars": 5271,
+      "forks": 609,
+      "starsToday": 1234,
+      "starsWeek": 3032,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/NousResearch/hermes-agent",
+      "sources": [
+        "daily",
+        "weekly"
+      ],
+      "searchStars": 0,
+      "searchForks": 0,
+      "shortDescription": "The agent that grows with you",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：Python。",
+        "official": "The agent that grows with you"
+      },
+      "radar": {
+        "heat": 10,
+        "community": 68,
+        "activity": 0,
+        "maturity": 52,
+        "focus": 28
+      },
+      "trendScore": 30,
+      "badgeText": "趋势分 30",
+      "topicLinks": [],
+      "rank": 18
+    },
+    {
+      "owner": "shanraisshan",
+      "repo": "claude-code-best-practice",
+      "fullName": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "readmeUrl": "https://github.com/shanraisshan/claude-code-best-practice#readme",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "totalStars": 13313,
+      "forks": 1242,
+      "starsToday": 0,
+      "starsWeek": 4400,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/shanraisshan/claude-code-best-practice",
+      "sources": [
+        "weekly"
+      ],
+      "shortDescription": "practice made claude perfect",
+      "chineseCard": {
+        "category": "开源项目",
+        "what": "一个近期受到关注的开源项目。",
+        "who": "适合关注当下 GitHub 热点和技术方向的开发者。",
+        "highlight": "可以结合仓库主题、语言和 README 进一步判断适用场景。 常见技术栈：HTML。",
+        "official": "practice made claude perfect"
+      },
+      "radar": {
+        "heat": 8,
+        "community": 75,
+        "activity": 0,
+        "maturity": 58,
+        "focus": 20
+      },
+      "trendScore": 30,
+      "badgeText": "趋势分 30",
+      "topicLinks": [],
+      "rank": 19
+    },
+    {
+      "owner": "GoogleCloudPlatform",
+      "repo": "generative-ai",
+      "fullName": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "readmeUrl": "https://github.com/GoogleCloudPlatform/generative-ai#readme",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "language": "Jupyter Notebook",
+      "totalStars": 15994,
+      "forks": 4021,
+      "starsToday": 0,
+      "starsWeek": 3169,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/GoogleCloudPlatform/generative-ai",
+      "sources": [
+        "weekly"
+      ],
+      "shortDescription": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：Jupyter Notebook。",
+        "official": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI"
+      },
+      "radar": {
+        "heat": 6,
+        "community": 77,
+        "activity": 0,
+        "maturity": 61,
+        "focus": 20
+      },
+      "trendScore": 30,
+      "badgeText": "趋势分 30",
+      "topicLinks": [],
+      "rank": 20
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿{
+  "name": "github-trending-daily-tool",
+  "version": "1.0.0",
+  "description": "抓取 GitHub 每日趋势仓库并展示项目用途说明的独立网页工具",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "export:static": "node scripts/export-static-data.js"
+  },
+  "keywords": [
+    "github",
+    "trending",
+    "scraper",
+    "daily-stars"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}

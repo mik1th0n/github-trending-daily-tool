@@ -1,0 +1,94 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub 官方榜</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg?v=4" />
+    <link rel="stylesheet" href="./styles.css?v=4" />
+  </head>
+  <body data-page="official">
+    <div class="page-shell">
+      <header class="topbar">
+        <div class="brand-block">
+          <div class="brand-mark">GT</div>
+          <div>
+            <div class="brand-name">GitHub Trending Daily</div>
+            <div class="brand-subtitle">官方榜 / 自定义趋势分析</div>
+          </div>
+        </div>
+        <nav class="topnav page-tabs">
+          <a class="page-tab active" href="./index.html">官方榜</a>
+          <a class="page-tab" href="./custom.html">趋势探测器</a>
+        </nav>
+      </header>
+
+      <section class="hero">
+        <div class="hero-main">
+          <div class="hero-pills">
+            <span class="hero-pill">Official</span>
+            <span class="hero-pill muted-pill">Daily Trending</span>
+          </div>
+          <h1 class="hero-title">
+            <span class="title-blue">GitHub</span>
+            <span class="title-white">官方日榜</span>
+          </h1>
+          <p class="hero-subtitle">实时抓取 GitHub Trending 当天官方榜。</p>
+          <div class="hero-actions">
+            <button id="heroRefreshButton" class="primary-button compact-button large-button">刷新</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="insights-panel">
+        <div class="insights-head">
+          <h2>今日洞察</h2>
+        </div>
+        <section class="summary-card">
+          <div class="summary-card-label">关键词洞察</div>
+          <div id="insightNote" class="insight-note"></div>
+        </section>
+        <div id="insightsGrid" class="insights-grid"></div>
+      </section>
+
+      <main id="results">
+        <div id="cards" class="cards"></div>
+      </main>
+    </div>
+
+    <template id="cardTemplate">
+      <article class="card" tabindex="0">
+        <a class="preview-link" target="_blank" rel="noreferrer">
+          <img class="preview-image" alt="项目预览图" loading="lazy" />
+        </a>
+        <div class="card-head">
+          <div>
+            <div class="rank"></div>
+            <a class="repo-link" target="_blank" rel="noreferrer"></a>
+          </div>
+          <div class="stars-today"></div>
+        </div>
+        <div class="radar-wrap">
+          <div class="radar-box"></div>
+          <div class="radar-metrics"></div>
+        </div>
+        <div class="summary-grid">
+          <p class="summary-item summary-what"></p>
+          <p class="summary-item summary-who"></p>
+          <p class="summary-item summary-highlight"></p>
+        </div>
+        <div class="meta-grid"></div>
+        <div class="topics"></div>
+      </article>
+    </template>
+
+    <template id="insightTemplate">
+      <section class="insight-card">
+        <h3 class="insight-title"></h3>
+        <div class="insight-content"></div>
+      </section>
+    </template>
+
+    <script src="./app.js?v=4"></script>
+  </body>
+</html>

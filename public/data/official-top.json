@@ -1,0 +1,607 @@
+{
+  "fetchedAt": "2026-03-12T01:23:41.524Z",
+  "source": "GitHub Official Trending",
+  "mode": "official",
+  "since": "daily",
+  "availableCount": 9,
+  "requestedLimit": 20,
+  "note": "官方页面当前只返回 9 个项目。",
+  "insights": {
+    "topics": [
+      {
+        "name": "agent-memory",
+        "count": 1
+      },
+      {
+        "name": "financial-forecasting",
+        "count": 1
+      },
+      {
+        "name": "future-prediction",
+        "count": 1
+      },
+      {
+        "name": "knowledge-graph",
+        "count": 1
+      },
+      {
+        "name": "llms",
+        "count": 1
+      },
+      {
+        "name": "multi-agent-simulation",
+        "count": 1
+      },
+      {
+        "name": "public-opinion-analysis",
+        "count": 1
+      },
+      {
+        "name": "python3",
+        "count": 1
+      }
+    ],
+    "languages": [
+      {
+        "name": "Python",
+        "count": 5
+      },
+      {
+        "name": "Shell",
+        "count": 2
+      },
+      {
+        "name": "TypeScript",
+        "count": 2
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI / 智能体",
+        "count": 2
+      },
+      {
+        "name": "预测 / 多智能体",
+        "count": 1
+      },
+      {
+        "name": "AI 评测 / 安全",
+        "count": 1
+      },
+      {
+        "name": "工程方法 / 框架",
+        "count": 1
+      },
+      {
+        "name": "语音 / TTS",
+        "count": 1
+      },
+      {
+        "name": "金融实验 / 多代理",
+        "count": 1
+      }
+    ],
+    "countries": [
+      {
+        "name": "未知",
+        "count": 9
+      }
+    ]
+  },
+  "items": [
+    {
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "fullName": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "readmeUrl": "https://github.com/msitarzewski/agency-agents#readme",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "totalStars": 30171,
+      "forks": 4747,
+      "starsToday": 6167,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/msitarzewski/agency-agents",
+      "sources": [
+        "daily"
+      ],
+      "rank": 1,
+      "topics": [],
+      "homepage": "",
+      "openIssues": 27,
+      "watchers": 290,
+      "license": "MIT",
+      "defaultBranch": "main",
+      "updatedAt": "2026-03-12T01:23:13Z",
+      "createdAt": "2025-10-13T12:12:29Z",
+      "stars": 30171,
+      "readmeExcerpt": "",
+      "shortDescription": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninja…",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：Shell。",
+        "official": "A complete AI agency at your fingertips - From frontend wizards to Reddit community nin…"
+      },
+      "radar": {
+        "heat": 100,
+        "community": 92,
+        "activity": 100,
+        "maturity": 84,
+        "focus": 20
+      },
+      "trendScore": 84,
+      "badgeText": "★ +6,167 今日 Star",
+      "topicLinks": []
+    },
+    {
+      "owner": "666ghj",
+      "repo": "MiroFish",
+      "fullName": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "readmeUrl": "https://github.com/666ghj/MiroFish#readme",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "totalStars": 16827,
+      "forks": 1791,
+      "starsToday": 2907,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/666ghj/MiroFish",
+      "sources": [
+        "daily"
+      ],
+      "rank": 2,
+      "topics": [
+        "agent-memory",
+        "financial-forecasting",
+        "future-prediction",
+        "knowledge-graph",
+        "llms",
+        "multi-agent-simulation",
+        "public-opinion-analysis",
+        "python3",
+        "social-prediction",
+        "swarm-intelligence"
+      ],
+      "homepage": "https://mirofish.ai",
+      "openIssues": 82,
+      "watchers": 79,
+      "license": "AGPL-3.0",
+      "defaultBranch": "main",
+      "updatedAt": "2026-03-12T01:22:24Z",
+      "createdAt": "2025-11-26T04:23:02Z",
+      "stars": 16827,
+      "readmeExcerpt": "",
+      "shortDescription": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "chineseCard": {
+        "category": "预测 / 多智能体",
+        "what": "简洁通用的群体智能引擎，预测万物",
+        "who": "适合做研究实验、预测分析和复杂系统建模的开发者。",
+        "highlight": "涉及预测、知识图谱、多智能体或仿真能力。 常见技术栈：Python。 相关主题：#agent-memory、#financial-forecasting、#future-prediction。",
+        "official": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+      },
+      "radar": {
+        "heat": 47,
+        "community": 87,
+        "activity": 100,
+        "maturity": 88,
+        "focus": 100
+      },
+      "trendScore": 77,
+      "badgeText": "★ +2,907 今日 Star",
+      "topicLinks": [
+        {
+          "name": "agent-memory",
+          "url": "https://github.com/topics/agent-memory"
+        },
+        {
+          "name": "financial-forecasting",
+          "url": "https://github.com/topics/financial-forecasting"
+        },
+        {
+          "name": "future-prediction",
+          "url": "https://github.com/topics/future-prediction"
+        },
+        {
+          "name": "knowledge-graph",
+          "url": "https://github.com/topics/knowledge-graph"
+        },
+        {
+          "name": "llms",
+          "url": "https://github.com/topics/llms"
+        },
+        {
+          "name": "multi-agent-simulation",
+          "url": "https://github.com/topics/multi-agent-simulation"
+        },
+        {
+          "name": "public-opinion-analysis",
+          "url": "https://github.com/topics/public-opinion-analysis"
+        },
+        {
+          "name": "python3",
+          "url": "https://github.com/topics/python3"
+        },
+        {
+          "name": "social-prediction",
+          "url": "https://github.com/topics/social-prediction"
+        },
+        {
+          "name": "swarm-intelligence",
+          "url": "https://github.com/topics/swarm-intelligence"
+        }
+      ]
+    },
+    {
+      "owner": "promptfoo",
+      "repo": "promptfoo",
+      "fullName": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "readmeUrl": "https://github.com/promptfoo/promptfoo#readme",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "language": "TypeScript",
+      "totalStars": 12574,
+      "forks": 1158,
+      "starsToday": 718,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/promptfoo/promptfoo",
+      "sources": [
+        "daily"
+      ],
+      "rank": 3,
+      "shortDescription": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI…",
+      "chineseCard": {
+        "category": "AI 评测 / 安全",
+        "what": "用于测试 Prompt、Agent 和 RAG 应用的评测与安全检测工具。",
+        "who": "适合做大模型应用测试、红队评估和上线前质量校验的团队。",
+        "highlight": "覆盖提示词评测、对抗测试、漏洞扫描或 CI 集成。 常见技术栈：TypeScript。",
+        "official": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for…"
+      },
+      "radar": {
+        "heat": 12,
+        "community": 84,
+        "activity": 0,
+        "maturity": 66,
+        "focus": 20
+      },
+      "trendScore": 35,
+      "badgeText": "★ +718 今日 Star",
+      "topicLinks": []
+    },
+    {
+      "owner": "obra",
+      "repo": "superpowers",
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "readmeUrl": "https://github.com/obra/superpowers#readme",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "totalStars": 78097,
+      "forks": 6039,
+      "starsToday": 1483,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/obra/superpowers",
+      "sources": [
+        "daily"
+      ],
+      "rank": 4,
+      "topics": [],
+      "homepage": "",
+      "openIssues": 124,
+      "watchers": 372,
+      "license": "MIT",
+      "defaultBranch": "main",
+      "updatedAt": "2026-03-12T01:21:53Z",
+      "createdAt": "2025-10-09T19:45:18Z",
+      "stars": 78097,
+      "readmeExcerpt": "",
+      "shortDescription": "An agentic skills framework & software development methodology that works.",
+      "chineseCard": {
+        "category": "工程方法 / 框架",
+        "what": "一套面向 AI 编程协作的技能框架和软件开发方法论。",
+        "who": "适合希望把 AI 代理纳入工程流程、规范交付的团队。",
+        "highlight": "强调流程规范、技能体系和工程协作。 常见技术栈：Shell。",
+        "official": "An agentic skills framework & software development methodology that works."
+      },
+      "radar": {
+        "heat": 24,
+        "community": 100,
+        "activity": 100,
+        "maturity": 89,
+        "focus": 20
+      },
+      "trendScore": 60,
+      "badgeText": "★ +1,483 今日 Star",
+      "topicLinks": []
+    },
+    {
+      "owner": "fishaudio",
+      "repo": "fish-speech",
+      "fullName": "fishaudio/fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "readmeUrl": "https://github.com/fishaudio/fish-speech#readme",
+      "description": "SOTA Open Source TTS",
+      "language": "Python",
+      "totalStars": 25809,
+      "forks": 2178,
+      "starsToday": 313,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/fishaudio/fish-speech",
+      "sources": [
+        "daily"
+      ],
+      "rank": 5,
+      "topics": [
+        "llama",
+        "transformer",
+        "tts",
+        "valle",
+        "vits",
+        "vqgan",
+        "vqvae"
+      ],
+      "homepage": "https://speech.fish.audio",
+      "openIssues": 30,
+      "watchers": 144,
+      "license": "NOASSERTION",
+      "defaultBranch": "main",
+      "updatedAt": "2026-03-12T01:22:58Z",
+      "createdAt": "2023-10-10T03:16:51Z",
+      "stars": 25809,
+      "readmeExcerpt": "",
+      "shortDescription": "SOTA Open Source TTS",
+      "chineseCard": {
+        "category": "语音 / TTS",
+        "what": "一个面向语音生成和文本转语音的开源项目。",
+        "who": "适合做语音合成、音色实验和语音产品集成的团队。",
+        "highlight": "重点在高质量 TTS、语音生成或音频建模。 常见技术栈：Python。 相关主题：#llama、#transformer、#tts。",
+        "official": "SOTA Open Source TTS"
+      },
+      "radar": {
+        "heat": 5,
+        "community": 90,
+        "activity": 100,
+        "maturity": 91,
+        "focus": 90
+      },
+      "trendScore": 62,
+      "badgeText": "★ +313 今日 Star",
+      "topicLinks": [
+        {
+          "name": "llama",
+          "url": "https://github.com/topics/llama"
+        },
+        {
+          "name": "transformer",
+          "url": "https://github.com/topics/transformer"
+        },
+        {
+          "name": "tts",
+          "url": "https://github.com/topics/tts"
+        },
+        {
+          "name": "valle",
+          "url": "https://github.com/topics/valle"
+        },
+        {
+          "name": "vits",
+          "url": "https://github.com/topics/vits"
+        },
+        {
+          "name": "vqgan",
+          "url": "https://github.com/topics/vqgan"
+        },
+        {
+          "name": "vqvae",
+          "url": "https://github.com/topics/vqvae"
+        }
+      ]
+    },
+    {
+      "owner": "virattt",
+      "repo": "ai-hedge-fund",
+      "fullName": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "readmeUrl": "https://github.com/virattt/ai-hedge-fund#readme",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "totalStars": 48168,
+      "forks": 8387,
+      "starsToday": 636,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/virattt/ai-hedge-fund",
+      "sources": [
+        "daily"
+      ],
+      "rank": 6,
+      "shortDescription": "An AI Hedge Fund Team",
+      "chineseCard": {
+        "category": "金融实验 / 多代理",
+        "what": "一个用 AI 代理模拟投研或量化协作流程的项目。",
+        "who": "适合研究 AI 在金融分析、协作决策和策略实验中的应用。",
+        "highlight": "强调投研流程、多代理协作和策略对比。 常见技术栈：Python。",
+        "official": "An AI Hedge Fund Team"
+      },
+      "radar": {
+        "heat": 10,
+        "community": 96,
+        "activity": 0,
+        "maturity": 77,
+        "focus": 20
+      },
+      "trendScore": 38,
+      "badgeText": "★ +636 今日 Star",
+      "topicLinks": []
+    },
+    {
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "fullName": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "readmeUrl": "https://github.com/alibaba/page-agent#readme",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "totalStars": 4782,
+      "forks": 371,
+      "starsToday": 1215,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/alibaba/page-agent",
+      "sources": [
+        "daily"
+      ],
+      "rank": 7,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "browser-automation",
+        "javascript",
+        "typescript",
+        "ui-automation",
+        "web"
+      ],
+      "homepage": "https://alibaba.github.io/page-agent/",
+      "openIssues": 26,
+      "watchers": 11,
+      "license": "MIT",
+      "defaultBranch": "main",
+      "updatedAt": "2026-03-12T01:23:37Z",
+      "createdAt": "2025-09-23T09:30:17Z",
+      "stars": 4782,
+      "readmeExcerpt": "",
+      "shortDescription": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "chineseCard": {
+        "category": "浏览器智能体",
+        "what": "用于网页界面自动化和浏览器操作的智能体工具。",
+        "who": "适合做网页自动化、AI 助手操作和浏览器工作流的开发者。",
+        "highlight": "重点在自然语言控制网页、表单和界面交互。 常见技术栈：TypeScript。 相关主题：#agent、#ai、#ai-agents。",
+        "official": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+      },
+      "radar": {
+        "heat": 20,
+        "community": 75,
+        "activity": 100,
+        "maturity": 78,
+        "focus": 100
+      },
+      "trendScore": 64,
+      "badgeText": "★ +1,215 今日 Star",
+      "topicLinks": [
+        {
+          "name": "agent",
+          "url": "https://github.com/topics/agent"
+        },
+        {
+          "name": "ai",
+          "url": "https://github.com/topics/ai"
+        },
+        {
+          "name": "ai-agents",
+          "url": "https://github.com/topics/ai-agents"
+        },
+        {
+          "name": "browser-automation",
+          "url": "https://github.com/topics/browser-automation"
+        },
+        {
+          "name": "javascript",
+          "url": "https://github.com/topics/javascript"
+        },
+        {
+          "name": "typescript",
+          "url": "https://github.com/topics/typescript"
+        },
+        {
+          "name": "ui-automation",
+          "url": "https://github.com/topics/ui-automation"
+        },
+        {
+          "name": "web",
+          "url": "https://github.com/topics/web"
+        }
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "fullName": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "readmeUrl": "https://github.com/NousResearch/hermes-agent#readme",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "totalStars": 5271,
+      "forks": 609,
+      "starsToday": 1234,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/NousResearch/hermes-agent",
+      "sources": [
+        "daily"
+      ],
+      "rank": 8,
+      "shortDescription": "The agent that grows with you",
+      "chineseCard": {
+        "category": "AI / 智能体",
+        "what": "一个围绕 AI Agent 或大模型应用构建的项目。",
+        "who": "适合在 AI 助手、Agent 工作流或 LLM 应用方向探索的开发者。",
+        "highlight": "围绕自动化流程、模型能力或多角色协作展开。 常见技术栈：Python。",
+        "official": "The agent that grows with you"
+      },
+      "radar": {
+        "heat": 20,
+        "community": 77,
+        "activity": 0,
+        "maturity": 60,
+        "focus": 20
+      },
+      "trendScore": 35,
+      "badgeText": "★ +1,234 今日 Star",
+      "topicLinks": []
+    },
+    {
+      "owner": "AstrBotDevs",
+      "repo": "AstrBot",
+      "fullName": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "readmeUrl": "https://github.com/AstrBotDevs/AstrBot#readme",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "totalStars": 21082,
+      "forks": 1517,
+      "starsToday": 342,
+      "starsWeek": 0,
+      "starsMonth": 0,
+      "previewImageUrl": "https://opengraph.githubassets.com/1/AstrBotDevs/AstrBot",
+      "sources": [
+        "daily"
+      ],
+      "rank": 9,
+      "shortDescription": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and…",
+      "chineseCard": {
+        "category": "聊天机器人 / 助手",
+        "what": "用于搭建多平台聊天机器人和 AI 助手的基础设施。",
+        "who": "适合做 IM 机器人、插件扩展和多平台助手接入的开发者。",
+        "highlight": "支持插件、消息平台接入和多模型集成。 常见技术栈：Python。",
+        "official": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins a…"
+      },
+      "radar": {
+        "heat": 6,
+        "community": 88,
+        "activity": 0,
+        "maturity": 69,
+        "focus": 20
+      },
+      "trendScore": 34,
+      "badgeText": "★ +342 今日 Star",
+      "topicLinks": []
+    }
+  ]
+}
